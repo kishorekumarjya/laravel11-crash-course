@@ -1,0 +1,1 @@
+{"version":1,"defects":[],"times":{"Tests\\Feature\\Http\\Controllers\\WelcomeControllerTest::testWelcomeMethodReturnsViewInstance":2.238,"Tests\\Feature\\Http\\Controllers\\WelcomeControllerTest::testWelcomeMethodReturnsCorrectView":0.048}}
